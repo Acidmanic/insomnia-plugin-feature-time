@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-feature-time",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Insomnia plugin to add 'Now+Seconds' template tag. ",
   "main": "app.js",
   "scripts": {
@@ -16,7 +16,7 @@
 
     "images": {
       "icon": "icon.svg", 
-      "cover": "cover.svg"
+      "cover": "cover.png"
     },
 
     "publisher": {
