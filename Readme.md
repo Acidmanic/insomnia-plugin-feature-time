@@ -20,7 +20,7 @@ __Directly installing the zip file:__: You can [download](https://github.com/Aci
 Then extract the content into a directory at your [insomnia's plugin's directory](https://docs.insomnia.rest/insomnia/introduction-to-plugins#plugin-file-location).
 
 
-__Using Insomnia Application:__ You can Open your insomnia application, go to Preferences menu, open the plugins tab and enter the name Now+Seconds into text box, the click __Install Plugin__ button.
+__Using Insomnia Application:__ You can Open your insomnia application, go to Preferences menu, open the plugins tab and enter the name _insomnia-plugin-feature-time_ into text box, the click __Install Plugin__ button.
 
 
 How to Use

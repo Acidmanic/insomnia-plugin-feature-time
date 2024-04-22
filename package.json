@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-feature-time",
-  "version": "1.0.0",
-  "description": "Insomnia Plugin To Template tag: FeatureTime",
+  "version": "1.1.0",
+  "description": "Insomnia plugin to add 'Now+Seconds' template tag. ",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,9 @@
   "license": "MIT",
 
   "insomnia": {
-    "name": "base64",                                                       
-    "displayName": "base64 Plugin",                                         
-    "description": "The base64 plugin encodes and decodes basic strings.",  
+    "name": "FeatureTime",                                                       
+    "displayName": "Feature Time",                                         
+    "description": "Template tag for evaluating a time with added (or removed) seconds to it.",  
 
     "images": {
       "icon": "icon.svg", 
